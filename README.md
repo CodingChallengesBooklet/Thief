@@ -1,6 +1,15 @@
 # Thief
 In this code challenge we write a program that displays every possible combination of a 4 digit PIN.
 
+![GitHub followers](https://img.shields.io/github/followers/hrszpuk?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/hrszpuk?style=social)
+<br>
+![GitHub language count](https://img.shields.io/github/languages/count/CodingChallengesBooklet/Thief?style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/CodingChallengesBooklet/Thief?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/CodingChallengesBooklet/Thief?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/CodingChallengesBooklet/Thief?style=for-the-badge)
+![GitHub branch checks state](https://img.shields.io/github/checks-status/CodingChallengesBooklet/Thief/main?style=for-the-badge)
+
 ## Problem
 A thief has managed to find out the four digits for an online PIN code, but doesn’t know the correct sequence needed to hack into the account.<br>
 
